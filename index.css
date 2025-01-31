@@ -43,12 +43,12 @@ footer {
 }
 
 footer a {
-    margin: 20px;
+    margin: 40px;
     text-align: center;
 }
 
 footer p {
-    margin-top: 2px;
+    margin-top: 2%;
 }
 
 .container {
@@ -57,4 +57,12 @@ footer p {
 
 nav a:hover {
     color: #5bbe42;
+}
+
+section.contact {
+    padding: 80px 4%;
+}
+
+form {
+    max-width: 500px;
 }
